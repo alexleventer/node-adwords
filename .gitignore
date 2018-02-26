@@ -2,3 +2,5 @@ node_modules*
 
 tests.temp.js
 npm-debug.log
+
+.idea/
